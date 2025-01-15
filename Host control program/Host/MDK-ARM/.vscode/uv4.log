@@ -1,0 +1,13 @@
+*** Using Compiler 'V5.06 update 7 (build 960)', folder: 'D:\keilc51\c51\ARM\ARMCC\Bin'
+Build target '23E_ws'
+compiling mainloop.c...
+..\Source\mainloop.c(60): error:  #65: expected a ";"
+  	Pulse_X_Num=(AS5600_X-angle_x)*32f/1.8f;
+..\Source\mainloop.c(61): error:  #65: expected a ";"
+  	Pulse_Y_Num=AS5600_Y-angle_y)*32f/1.8f;
+..\Source\mainloop.c(62): warning:  #223-D: function "PPulse_2_PWM" declared implicitly
+  	PPulse_2_PWM();
+..\Source\mainloop.c: 1 warning, 2 errors
+"23E_ws\23E_ws.axf" - 2 Error(s), 1 Warning(s).
+Target not created.
+Build Time Elapsed:  00:00:02

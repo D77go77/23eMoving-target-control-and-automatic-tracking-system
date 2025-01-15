@@ -1,0 +1,9 @@
+23e_ws\printf.o: ..\Source\printf.c
+23e_ws\printf.o: ..\Source\printf.h
+23e_ws\printf.o: D:\keilc51\c51\ARM\ARMCC\Bin\..\include\stdlib.h
+23e_ws\printf.o: D:\keilc51\c51\ARM\ARMCC\Bin\..\include\string.h
+23e_ws\printf.o: D:\keilc51\c51\ARM\ARMCC\Bin\..\include\stdint.h
+23e_ws\printf.o: D:\keilc51\c51\ARM\ARMCC\Bin\..\include\stddef.h
+23e_ws\printf.o: D:\keilc51\c51\ARM\ARMCC\Bin\..\include\stdarg.h
+23e_ws\printf.o: D:\keilc51\c51\ARM\ARMCC\Bin\..\include\stdbool.h
+23e_ws\printf.o: D:\keilc51\c51\ARM\ARMCC\Bin\..\include\float.h
